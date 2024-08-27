@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Node Modules
+node_modules/
+
+# Environment Variables
+.env
+
+# Build Output
+dist/
+build/
+
+# VS Code settings
+.vscode/
+
+# Firebase files
+firebase-debug.log
+.firebaserc
